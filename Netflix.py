@@ -8,7 +8,7 @@ import os
 # =========================
 # API KEY
 # =========================
-API_KEY = "b4f35527"
+API_KEY = "ADD AN API KEY"
 FAV_FILE = "favorites.json"
 
 # =========================
